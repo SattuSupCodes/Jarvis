@@ -23,3 +23,5 @@ def wishMe():
 if __name__  == "__main__":
     # speak("sattu is a cutie")
     wishMe()
+    
+# my real mission is to make my terminal talk btw. This is just me getting severely distracted in the process
